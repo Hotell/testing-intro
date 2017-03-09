@@ -8,7 +8,7 @@ describe(`Calculator`, () => {
       const expected = 3;
       const actual = add(1, 2);
 
-      expect(actual).toBe(3);
+      expect(actual).toBe(expected);
     });
 
   });
